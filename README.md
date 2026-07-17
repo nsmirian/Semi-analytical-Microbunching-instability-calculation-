@@ -268,7 +268,9 @@ When using or modifying this code for scientific work, please cite the associate
 
 **Najmeh S. Mirian**
 n.mirian@hzdr.de
-**Simone Di Mitri **
+
+**Simone Di Mitri**
+
 **Giovanni Perosa**
 
 Helmholtz-Zentrum Dresden-Rossendorf, Germany
